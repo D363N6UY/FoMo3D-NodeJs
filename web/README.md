@@ -1,6 +1,7 @@
 # FoMoFork
 
 - 運行前注意
+
 ```請先將 public/js/bundle.js 內0xa62142888aba8370742be823c1782d17a0389da1修改為你的合約位置```
 
 - 此為多國語系自動偵測切換，請自行修改public下的html檔
